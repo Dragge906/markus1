@@ -1,0 +1,39 @@
+input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+label {
+    display: inline-block;
+    width: 300px; 
+    margin-bottom: 5px;
+}
+
+#calculator-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#calculate-button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#calculate-button:hover {
+    background-color: #0056b3;
+}
+
+p {
+    margin: 10px 0;
+}
+
+input[type="number"] {
+    width: 100px; 
+}
+
+h2 {
+    margin: 10px 0;
+}
